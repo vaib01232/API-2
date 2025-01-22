@@ -1,0 +1,23 @@
+{
+  "name": "api-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaib01232/API-2.git"
+  },
+  "author": "Vaibhaav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaib01232/API-2/issues"
+  },
+  "homepage": "https://github.com/vaib01232/API-2#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
